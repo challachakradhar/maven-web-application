@@ -9,13 +9,13 @@
 	<version>2.2-SNAPSHOT</version>
 	
 	<name>Maven Web Application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://Ness technologies.com</url>
 	
-	<description>Maven Web Project</description>
+	<description>MavenWebProject</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name> NessTechnologies</name>
+		<url>http://Nesstechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -90,12 +90,12 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.114.50:9980/mithuntechnologies/repository/flipkart-release/</url>
+	      <name> NessTechnologies Releases Nexus Repository</name>
+	      <url>http://13.234.114.50:9980/Nesstechnologies/repository/flipkart-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>NessTechnologies Snapshot Nexus Repository </name>
 	      <url>http://13.232.140.161:8081/repository/Maven_1/</url>
 	    </snapshotRepository>
 	</distributionManagement>

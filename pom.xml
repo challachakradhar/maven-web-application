@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name> Maven Release Nexus Repository</name>
-	      <url>http://ec2-52-66-246-239.ap-south-1.compute.amazonaws.com:8081/repository/Maven_Release_repo/</url>
+	      <name> ANZ Release Nexus Repository</name>
+	      <url>http://ec2-35-154-29-89.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_Release_Repo/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
-	      <url>http://ec2-52-66-246-239.ap-south-1.compute.amazonaws.com:8081/repository/Maven_Snapshot_Repo/</url>
+	      <name>ANZ Snapshot Nexus Repository </name>
+	      <url>http://ec2-35-154-29-89.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_Snapshot_Repo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	

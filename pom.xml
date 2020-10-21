@@ -97,12 +97,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release Nexus Repository</name>
-	      <url>http://ec2-35-154-29-89.ap-south-1.compute.amazonaws.com:8081/repository/Mvn_Release_Repo/</url>
+	      <url>http://ec2-65-0-99-222.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_Release_Repo/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://ec2-35-154-29-89.ap-south-1.compute.amazonaws.com:8081/repository/Mvn_Snapshot_Repo/</url>
+	      <url>http://ec2-65-0-99-222.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_Snapshot_Repo/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	

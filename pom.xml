@@ -6,7 +6,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>2.0</version>
+	<version>1.4-SNAPSHOT</version>
 	
 	<name>Maven Web Application</name>
 	<url>http://Ness technologies.com</url>
@@ -96,12 +96,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release Nexus Repository</name>
-	      <url>http://ec2-65-0-106-51.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_Release/</url>
+	      <url>http://65.0.106.51:8081/repository/ANZ_Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot Nexus Repository </name>
-	      <url>http://ec2-65-0-106-51.ap-south-1.compute.amazonaws.com:8081/repository/ANZ_SNAPSHOT/</url>
+	      <url>http://65.0.106.51:8081/repository/ANZ_SNAPSHOT/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
